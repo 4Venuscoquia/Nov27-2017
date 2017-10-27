@@ -1,0 +1,36 @@
+html{
+	font-family: impact;
+	padding-top: 30px;
+	color: #4b4b34;
+
+
+  }
+
+  body {
+	max-width: 50px;
+	margin: 5px;
+  } 
+
+  input {
+	padding-top: px;
+	width: 500px;
+	height: 30px;
+	font-size: 36px;
+	border: 0;
+  }
+
+  input:focus {
+	outline:none;
+  }
+
+  li { 
+	font-size: 20px;
+	list-style-position: none;
+	margin: 1%;
+  }
+
+
+  li:hover {
+	text-decoration: line-through;
+  }
+
